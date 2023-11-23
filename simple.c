@@ -8,6 +8,6 @@ printf("hello world");
   c=a+b;
 
 printf("hello world");int i;
- 
+
 return 0;
 }
